@@ -1,0 +1,9 @@
+{
+    "name": "Keycloak",
+    "format": "xml",
+    "description": "",
+    "files": ["Keycloak.xml"],
+    "repository": {},
+    "version": "0.1",
+    "dependencies": {"Simplicite": "5"}
+}
